@@ -1,0 +1,24 @@
+.font_1 {
+  background-color: black;
+  color: yellow;
+  font-size: large;
+}
+.font_2 {
+  background-color: darkblue;
+  color: white;
+  font-size: medium;  
+}
+.My_Style {
+  background-color: red;
+  color: blue;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: small;
+}
+p {
+  color: black;
+  
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 1px 1px gray;
+}

@@ -1,0 +1,19 @@
+p1 {
+	color: BlueViolet;
+	text-align: center;
+}
+p {
+	font-size: 5vw;
+}
+body {
+	opacity: 1;
+	transition: 1s opacity;
+}
+
+body.fade-out {
+	opacity: 0;
+	transition: none;
+}
+html {
+	background-color: black;
+}
